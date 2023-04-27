@@ -16,7 +16,7 @@ jobs:
           # Write your CML report
           echo "## Metriques:" >> report.md
           cat metrics.txt >> report.md
-          git config --global user.email "115955738+vitormag-gh@users.noreply.github.com"
+          git config --global user.email "vitor@riskfit.ca"
           git config --global user.name "Vitor"
           git add report.md metrics.txt
           git commit -m "pousser vers github repository"
