@@ -4,5 +4,5 @@ pip install matplotlib
 pip install seaborn
 pip install scipy==1.0.0
 pip install scikit-learn==0.19.1
-pip install numpy==1.14.5
+pip install numpy
 
