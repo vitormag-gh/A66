@@ -16,3 +16,6 @@ R2: 0.9
 ## Metriques:
 MSE:  1.8 
 R2: 0.9
+## Metriques:
+MSE:  1.8 
+R2: 0.9
