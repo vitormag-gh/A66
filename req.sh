@@ -1,3 +1,4 @@
+#!/bin/bash
 pip install --upgrade pip
 pip install pandas==0.23.1
 pip install matplotlib
